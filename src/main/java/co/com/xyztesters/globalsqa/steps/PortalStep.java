@@ -19,5 +19,4 @@ public class PortalStep {
     public void RegisterPortal(String firstName,String lastName, String userName,String password){
         pageRegister.dataRegister(firstName, lastName,userName,password);
     }
-
 }

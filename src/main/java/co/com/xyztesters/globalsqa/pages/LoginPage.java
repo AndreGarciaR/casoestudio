@@ -22,6 +22,6 @@ public class LoginPage extends PageObject {
         textBoxUsername.sendKeys(userName);
         textBoxPassword.sendKeys(password);
         btnLogin.click();
-    }
 
+    }
 }

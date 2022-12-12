@@ -31,7 +31,6 @@ import org.openqa.selenium.WebElement;
             textBoxPassword.sendKeys(password);
             btnRegister.click();
         }
-
     }
 
 
